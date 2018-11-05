@@ -1,8 +1,8 @@
-# Redes Nuerais aplicadas à classificação no jogo da velha
+# Redes Neurais aplicadas à classificação no jogo da velha
 
 Trabalho realizado na disciplina de Inteligência Artificial do Centro Universitário Estácio da Amazônia, onde foi proposto a criação de uma rede neural aplicada à classificação no jogo da velha.
 
-## Base de dados
+## Bases de dados
 [Tic-Tac-Toe Endgame Data Set](http://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame)
 
 ## Referências
