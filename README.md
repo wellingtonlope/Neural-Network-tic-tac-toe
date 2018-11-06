@@ -2,7 +2,7 @@
 
 Trabalho realizado na disciplina de Inteligência Artificial do Centro Universitário Estácio da Amazônia, onde foi proposto a criação de uma rede neural aplicada à classificação no jogo da velha.
 
-## Bases de dados
+## Base de dados
 [Tic-Tac-Toe Endgame Data Set](http://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame)
 
 ## Referências
